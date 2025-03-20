@@ -7,7 +7,7 @@
 - <b>Deploying a web server with Azure virtual machines</b> (https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Azure Applied Skills Certificates</b>
-  - [Microsoft Applied Skills: Administer Active Directory Domain Services](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Microsoft Applied Skills: Administer Active Directory Domain Services](https://github.com/dgirmay1/appliedskills_1) <b><i>(Potentially NSFW)</b></i>
   - [Microsoft Applied Skills: Configure secure access to your workloads using Azure networking](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Microsoft Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
