@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IAM and Cloud Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b> (https://github.com/dgirmay1)
+- <b>Active Directory Home Lab</b> (https://github.com/dgirmay1/ad_homelab)
   
 - <b>Deploying a web server with Azure virtual machines</b> (https://github.com/dgirmay1)
   
