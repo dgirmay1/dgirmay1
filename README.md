@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab</b> (https://github.com/dgirmay1/ad_homelab)
   
-- <b>Vulnerability Management Lab (Tenable and Azure)</b> (https://github.com/dgirmay1)
+- <b>Vulnerability Management Lab (Tenable and Azure)</b> (https://github.com/dgirmay1/vul_tenable)
   
 - <b>Deploying a web server with Azure virtual machines</b> (https://github.com/dgirmay1)
   
