@@ -11,7 +11,7 @@
 - <b>Deploying a web server with Azure virtual machines</b> (https://github.com/dgirmay1/deploy_vm)
   
 - <b>Azure Applied Skills Certificates</b>
-  - [Microsoft Applied Skills: Administer Active Directory Domain Services](https://github.com/dgirmay1/appliedskills_1) <b><i>()</b></i>
+  - [Microsoft Applied Skills: Administer Active Directory Domain Services](https://github.com/dgirmay1/appliedskills_1)
 
 <h2>📃 Certifications:</h2>
 
